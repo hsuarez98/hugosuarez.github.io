@@ -1,12 +1,4 @@
 @import url(https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;700;900&family=Shippori+Mincho:wght@400;500;600;700;800&display=swap);
-<!-- linia 1064 bg color -->
-<!-- linia 1031 "" "" -->
-<!-- linia 1390 text "" -->
-<!-- linia 847 "" "" -->
-<!-- linia 1576 "" "" -->
-<!-- linia 1462 "" "" -->
-<!-- linia 1674 "" "" -->
-<!-- linia 1905 "" "" -->
 .section-bg {
   background: #f2f4f8
 }
@@ -961,7 +953,7 @@ hr {
   transition: all .3s ease-out 0s;
   font-family: "Chivo", sans-serif;
   text-transform: capitalize;
-  color: ##fed136;
+  color: #fff;
   font-weight: 400;
   padding: 34px 42px;
   display: block;
@@ -983,7 +975,8 @@ hr {
 }
 
 .header-area .main-header .header-righ .main-menu ul li:hover>a {
-  background: #00e64d
+  background: #fed136;
+  color: #000;
 }
 
 .header-area .main-header .header-righ .main-menu ul li:hover>ul.submenu {
@@ -1674,7 +1667,7 @@ hr {
 }
 
 .may-about .single-about .experience-link p a:hover {
-  color: #01ff56
+  color: #fed136
 }
 
 .visit-tailor-area {
